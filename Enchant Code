@@ -1,0 +1,49 @@
+--------------------------------------------------------------------------------------
+protection Max Lvl : 4 Reduces most damage MC ID : 0
+fire_protection Max Lvl : 4 Reduces fire damage MC ID : 1
+blast_protection Max Lvl : 4 Reduces explosion damage MC ID : 3
+projectile_protection Max Lvl : 4 Reduces ranged attack damage MC ID : 4
+----------------------------------------------------------------------------------------------------------------------------
+thorns Max Lvl : 3 Damages attackers MC ID : 7
+respiration Max Lvl : 3 Increases underwater breathing time MC ID : 5
+aqua_affinity Max Lvl : 1 Increases underwater mining speed MC ID : 6
+feather_falling Max Lvl : 4 Reduces falling damage MC ID : 2
+depth_strider Max Lvl : 3 Increases underwater movement speed MC ID : 8
+frost_walker Max Lvl : 2 Walks on water MC ID : 9
+soul_speed Max Lvl : 3 Speed ​​up on Soul Sand
+----------------------------------------------------------------------------------------------------------------------------
+efficiency Max Lvl : 5 Increased mining speed MC ID : 32
+fortune Max Lvl : 3 Increased block drops MC ID : 35
+silk_touch Max Lvl : 1 Drops mined blocks as is MC ID : 33
+------------------------------------------------------------------------------------------------------------
+sharpness Max Lvl : 5 Increased damage MC ID : 16
+knockback Max Lvl : 2 Increased knockback effect on hit MC ID : 19
+fire_aspect Max Lvl : 2 Targets set on fireㅣMC ID : 20
+sweeping Max Lvl : 3 Increased sweeping attack power MC ID : 22
+looting Max Lvl : 3 Increased loot dropped by mobs MC ID : 21
+bane_of_arthropods Max Lvl : 5 Increased damage to arthropods MC ID : 18
+smite Max Lvl : 5 Increased damage to undead mobs MC ID : 17
+----------------------------------------------------------------------------------------------------------------------------
+piercing Max Lvl : 4 Multiple arrows pierce multiple entities
+multishot Max Lvl : 1 Fire 3 arrows at once
+quick_charge Max Lvl : 3 Reduces the reload time of the crossbow
+----------------------------------------------------------------------------------------------------------------------------
+riptide Max Lvl : 3 Throwing a trident causes the player to sprint. Only works in water or rain MC ID : 67
+channeling Max Lvl : 1 Lightning strikes entities hit by the trident, only effective during thunderstorms MC ID : 68
+loyalty Max Lvl : 3 Throwing a trident causes them to return. Higher level, faster speed MC ID : 65
+impaling Max Lvl : 5 Added trident damage to underwater spawned entities MC ID : 66
+----------------------------------------------------------------------------------------------------------------------------
+luck_of_the_sea Max Lvl : 3 Increased chance of getting rare items from fishing MC ID : 61
+lure Max Lvl : 3 Reduced time taken for fishing MC ID : 62
+----------------------------------------------------------------------------------------------------------------------------
+power Max Lvl : 5 Increased damage from bows MC ID : 48
+punch Max Lvl : 2 Increased pushback from arrows MC ID : 49
+flame Max Lvl : 1 Targets hit by arrows are ignited MC ID : 50
+infinity Max Lvl : 1 No arrow consumption when shooting normal arrows with a bow MC ID : 51
+--------------------------------------------------------------------------------------------------------------------------------------------
+binding_curse Max Lvl : 1 Removed items Prevent MC ID : 10
+vanishing_curse Max Lvl : 1 Items disappear when you die MC ID : 71
+----------------------------------------------------------------------------------------------------------------------------
+unbreaking Max Lvl : 3 Increase durability MC ID : 34
+mending Max Lvl : 1 Repair tools with experience MC ID : 70
+----------------------------------------------------------------------------------------------------------------------------
